@@ -3085,14 +3085,11 @@
 				"${BUILT_PRODUCTS_DIR}/FunctionalSwift/FunctionalSwift.framework",
 				"${PODS_ROOT}/Reveal-SDK/RevealServer/iOS/RevealServer.framework",
 				"${BUILT_PRODUCTS_DIR}/When/When.framework",
-				"${PODS_ROOT}/../Frameworks/TrustDefender.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexCheckoutPayments/YandexCheckoutPayments.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexCheckoutPaymentsApi/YandexCheckoutPaymentsApi.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexCheckoutShowcaseApi/YandexCheckoutShowcaseApi.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexCheckoutWalletApi/YandexCheckoutWalletApi.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexLoginSDK/YandexLoginSDK.framework",
-				"${PODS_ROOT}/YandexMobileMetrica/dynamic/YandexMobileMetrica.framework",
-				"${PODS_ROOT}/YandexMobileMetrica/dynamic/YandexMobileMetricaCrashes.framework",
 				"${BUILT_PRODUCTS_DIR}/YandexMoneyCoreApi/YandexMoneyCoreApi.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -3100,14 +3097,11 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FunctionalSwift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RevealServer.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/When.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TrustDefender.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexCheckoutPayments.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexCheckoutPaymentsApi.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexCheckoutShowcaseApi.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexCheckoutWalletApi.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexLoginSDK.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexMobileMetrica.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexMobileMetricaCrashes.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YandexMoneyCoreApi.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
